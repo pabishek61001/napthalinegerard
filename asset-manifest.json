@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cd09bb4.css",
+    "main.js": "/static/js/main.b7780203.js",
+    "static/js/453.2f4c84ba.chunk.js": "/static/js/453.2f4c84ba.chunk.js",
+    "static/media/hosting.jpg": "/static/media/hosting.a442e4f8c8236e037d09.jpg",
+    "static/media/e commerce.png": "/static/media/e commerce.3c98d8189358e5c1109d.png",
+    "static/media/database.jpg": "/static/media/database.2dc8f0eec2d012f6b59a.jpg",
+    "static/media/api.jpg": "/static/media/api.4bd20d7b3e0526a21f98.jpg",
+    "static/media/git.png": "/static/media/git.d3743fe3bad25bdf9d0c.png",
+    "static/media/my-image.png": "/static/media/my-image.3cc92b8d14213011a0a5.png",
+    "static/media/payment.jpg": "/static/media/payment.0aabbbeb19d0bf3eedf8.jpg",
+    "static/media/bg-img.png": "/static/media/bg-img.9b680573c55a946a45ca.png",
+    "static/media/coding.jpg": "/static/media/coding.13a7db1cc5b882a1840a.jpg",
+    "static/media/shubadinam card (1).jpg": "/static/media/shubadinam card (1).8ec6f386fae93b498304.jpg",
+    "index.html": "/index.html",
+    "main.2cd09bb4.css.map": "/static/css/main.2cd09bb4.css.map",
+    "main.b7780203.js.map": "/static/js/main.b7780203.js.map",
+    "453.2f4c84ba.chunk.js.map": "/static/js/453.2f4c84ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd09bb4.css",
+    "static/js/main.b7780203.js"
+  ]
+}
